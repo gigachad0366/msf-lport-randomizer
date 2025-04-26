@@ -8,3 +8,4 @@ why randomize Lport ?
 how to install ?
 
 - place the plugin file under plugins folder in metasploit-framework. location of msf root path may vary depending on your distro.
+- in msfconsole, run ```load lport_randomizer```
