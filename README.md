@@ -7,4 +7,4 @@ why randomize lport ?
 
 how to install ?
 
-place the plugin file under plugins folder in metasploit-framework. location of msf root path may vary depending on your distro.
+- place the plugin file under plugins folder in metasploit-framework. location of msf root path may vary depending on your distro.
